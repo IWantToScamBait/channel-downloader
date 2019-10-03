@@ -1,7 +1,9 @@
 # Channel Downloader
-#### Download an entire youtube channel
+
+## Download an entire youtube channel
 
 ## Usage
+
 1. Make sure you have Python 3.x, chromedriver and ffmpeg installed.
 2. Install requirements with `pip install -r requirements`.
 3. Download or clone this git repo using `git clone https://github.com/ivanch/channel-downloader`
